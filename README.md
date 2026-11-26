@@ -1,158 +1,154 @@
-# Mostafa Mohamed Zarea
-### Backend Developer | Full Stack Engineer
+# Mostafa Mohamed
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Laravel+Specialist;Building+Scalable+Web+Applications;RESTful+APIs+%7C+System+Architecture;Integrations+%7C+Automation+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;PHP+%26+Laravel+Engineer;Building+Scalable+Backend+Systems;System+Design+%7C+APIs+%7C+Performance" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://zarea.dev">
-    <img src="https://img.shields.io/badge/Portfolio-zarea.dev-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://github.com/moustafazare3">
+    <img src="https://img.shields.io/badge/GitHub-moustafazare3-181717?style=flat&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/zareadev">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/moustafazare3">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:mostafazarea69@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/moustafazare3">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/moustafazare3">
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/moustafazare3">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=flat&logo=x&logoColor=white" />
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I'm a **Backend Developer & Full Stack Engineer** with 6+ years of professional experience building scalable web applications, backend systems, RESTful APIs, and business solutions.
-
-My primary expertise is in **PHP and Laravel**, with a strong focus on clean architecture, database optimization, third-party integrations, and building reliable production-ready applications.
-
-I enjoy solving complex technical problems, improving system performance, and turning business requirements into practical software solutions.
-
-- 🔭 Experienced in developing and maintaining production applications.
-- ⚙️ Specialized in Laravel backend development and API architecture.
-- 🏗️ Passionate about clean code, SOLID principles, and scalable systems.
-- 🔌 Experienced with payment gateways, messaging platforms, and third-party APIs.
-- 🤖 Exploring AI integrations and intelligent business automation.
-- 🌍 Based in Alexandria, Egypt.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moustafazare3&style=flat&color=blue" alt="Profile views" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" />
-</p>
+I'm a **Backend Developer** specializing in PHP and Laravel, with 5+ years of experience building, scaling, and maintaining production applications across SaaS, e-commerce, transportation, and business platforms.
 
-- PHP 8.x, Laravel 12
-- RESTful API Development
-- MVC Architecture & SOLID Principles
-- Authentication & Authorization (Sanctum, JWT)
-- Clean Architecture & Modular Development
-- Third-Party API Integrations
+I've worked on 100+ production systems, delivered 30+ projects, and led backend engineering teams, focusing on scalable architecture, API design, performance optimization, and reliable integrations.
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap" />
-</p>
+I care about writing maintainable code, solving complex engineering problems, and building systems that perform reliably under real-world workloads.
 
-- HTML5, CSS3, JavaScript
-- Bootstrap 5, jQuery
-- Blade Templates
-- Livewire & Filament
-
-### Databases & Caching
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis,postgresql" />
-</p>
-
-- MySQL & PostgreSQL
-- Database Design & Optimization
-- Query Optimization
-- Redis & Caching Strategies
-
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,bash" />
-</p>
-
-- Docker & Containerization
-- Linux Server Administration
-- Git & GitHub
-- VPS Deployment & Management
-- Nginx & Apache
-- CI/CD & Production Troubleshooting
-
-### Integrations & Other Technologies
-
-- WhatsApp Business Platform & Meta Graph API
-- Firebase Cloud Messaging
-- Payment Gateway Integrations
-- Webhooks & Real-time Communication
-- AI APIs & LLM Integrations
-- Swagger / OpenAPI Documentation
+- 💻 Backend engineering with PHP & Laravel.
+- 🏗️ Building scalable APIs and maintainable software architectures.
+- ⚡ Performance optimization, SQL tuning, Redis & caching.
+- 🔄 Asynchronous processing, queues, jobs & automation.
+- 🔌 Third-party integrations, payment systems & messaging platforms.
+- 👥 Engineering leadership, code reviews & technical standards.
+- 📍 Alexandria, Egypt.
 
 ---
 
-## 💼 Professional Experience
+## Tech Stack
 
-**Backend Developer & Full Stack Engineer**
+### Languages & Frameworks
 
-My professional experience includes:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,java,cs" />
+</p>
 
-- Developing and maintaining large-scale Laravel applications.
-- Building RESTful APIs serving thousands of users.
-- Designing scalable database structures and optimizing complex SQL queries.
-- Integrating payment gateways, delivery services, maps, and messaging platforms.
-- Refactoring legacy systems and improving application architecture.
-- Working with Dockerized environments and production infrastructure.
-- Collaborating with development teams and supporting technical delivery.
+### Backend & Architecture
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel" />
+</p>
+
+`Laravel` · `Livewire` · `Filament` · `REST APIs` · `MVC` · `OOP` · `SOLID` · `Design Patterns` · `Sanctum` · `JWT`
+
+### Databases & Performance
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+</p>
+
+`MySQL` · `PostgreSQL` · `Supabase` · `Eloquent ORM` · `SQL Optimization` · `Database Indexing` · `Caching` · `Redis`
+
+### DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,git,github" />
+</p>
+
+`Docker` · `Linux` · `Nginx` · `AWS` · `VPS` · `CI/CD` · `Git`
+
+### Testing & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+`PHPUnit` · `Unit Testing` · `Postman` · `API Documentation` · `Swagger / OpenAPI`
+
+### Integrations & Services
+
+`WhatsApp Business API` · `Payment Gateways` · `Firebase` · `ERP Integrations` · `Delivery APIs` · `AI APIs` · `ZOHO` · `Elasticsearch`
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,react,tailwind" />
+</p>
+
+`React` · `Tailwind CSS` · `Bootstrap` · `HTML5` · `CSS3` · `JavaScript` · `jQuery` · `ShadCN UI`
 
 ---
 
-## 🚀 Featured Work
+## Engineering Highlights
 
-Explore my projects, technical implementations, and development work:
+| | |
+|---|---|
+| 🚀 **100+ Production Systems** | Backend development, maintenance & architecture |
+| 📦 **30+ Projects Delivered** | End-to-end PHP/Laravel development |
+| 👥 **15 Engineers Managed** | Team leadership, code reviews & technical delivery |
+| ⚡ **~40% Performance Improvement** | Optimization of high-traffic platforms |
+| 📈 **100,000+ End Users** | Applications serving real-world customers |
+| 🧪 **Engineering Standards** | Testing, documentation & maintainable architecture |
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <a href="https://zarea.dev/projects">
-    <img src="https://img.shields.io/badge/Explore_My_Projects-Visit_Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zareadev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zareadev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=moustafazare3&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moustafazare3&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zareadev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=moustafazare3&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, engineers, and teams working on interesting software products and backend engineering challenges.
+## Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/zareadev">
-    <img src="https://img.shields.io/badge/LinkedIn-Mostafa_Zarea-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://github.com/zareadev">
-    <img src="https://img.shields.io/badge/GitHub-zareadev-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://zarea.dev">
-    <img src="https://img.shields.io/badge/Website-zarea.dev-2F81F7?style=flat-square&logo=googlechrome" />
+  <a href="https://www.linkedin.com/in/moustafazare3">
+    <img src="https://img.shields.io/badge/LinkedIn-moustafazare3-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:mostafazarea69@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/moustafazare3">
+    <img src="https://img.shields.io/badge/GitHub-moustafazare3-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  <i>Building reliable software, one commit at a time.</i>
+  <a href="https://www.facebook.com/moustafazare3">Facebook</a> ·
+  <a href="https://www.instagram.com/moustafazare3">Instagram</a> ·
+  <a href="https://x.com/moustafazare3">X</a>
+</p>
+
+<p align="center">
+  <i>Engineering scalable solutions, one commit at a time.</i>
 </p>
