@@ -171,8 +171,55 @@ Engineers Led
 
 ---
 
-## `05` — GitHub Analytics
+
+<!-- GITHUB ANALYTICS DASHBOARD -->
+
+## `05` — GitHub Analytics Dashboard
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=moustafazare3&show_icons=true&hide_border=true&bg_color=090
+### OVERVIEW
+
+<img width="100%" src="https://ghstats.dev/api/card?username=moustafazare3&theme=midnight&bg=09090b&text=E5E7EB&title_color=F87171&icon_color=DC2626&border_color=27272a" alt="GitHub Overview Statistics" />
+
+<br/>
+
+### CONTRIBUTION STREAK
+
+<img width="100%" src="https://streak-stats.demolab.com?user=moustafazare3&theme=dark&hide_border=true&background=09090b&ring=DC2626&fire=F87171&currStreakLabel=F87171&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub Contribution Streak" />
+
+<br/>
+
+### LANGUAGE DISTRIBUTION
+
+<img width="49%" src="https://ghstats.dev/api/langs?username=moustafazare3&layout=donut&theme=midnight&bg=09090b&text=E5E7EB&title_color=F87171&border_color=27272a" alt="Language Distribution Donut Chart" />
+
+<img width="49%" src="https://ghstats.dev/api/langs?username=moustafazare3&layout=bar&theme=midnight&bg=09090b&text=E5E7EB&title_color=F87171&border_color=27272a" alt="Language Distribution Bar Chart" />
+
+<br/>
+
+### CONTRIBUTION ACTIVITY
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moustafazare3&bg_color=09090b&color=F87171&line=DC2626&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+
+<br/>
+
+### ACTIVITY SPARKLINE
+
+<img width="100%" src="https://ghstats.dev/api/sparkline?username=moustafazare3&days=90&width=800&height=160&line_color=DC2626&fill_color=450a0a&title=Last%2090%20Days%20Activity&hide_border=true" alt="90 Day Activity Sparkline" />
+
+<br/>
+
+### GITHUB TROPHIES
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=moustafazare3&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+**REAL CODE. REAL CONTRIBUTIONS. CONTINUOUS GROWTH.**
+
+</div>
