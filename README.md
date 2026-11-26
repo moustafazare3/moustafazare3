@@ -1,169 +1,178 @@
-# Mostafa Mohamed
-### Backend Developer | Laravel Engineer
+<!--
+  MOSTAFA MOHAMED | GitHub Profile README
+  Repository: moustafazare3
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Laravel+Specialist;Building+Scalable+Backend+Systems;API+Architecture+%7C+System+Design;Performance+Optimization+%7C+Integrations" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/moustafazare3">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/moustafazare3">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:mostafazarea69@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:09090b,40:450a0a,100:dc2626&text=MOSTAFA%20MOHAMED&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=BACKEND%20DEVELOPER%20%7C%20LARAVEL%20ENGINEER&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
 
-<p align="center">
-  📍 Alexandria, Egypt &nbsp;·&nbsp; 💼 Backend Development &nbsp;·&nbsp; 🌍 Open to Opportunities
-</p>
+<a href="https://www.linkedin.com/in/moustafazare3">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/moustafazare3">
+<img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:mostafazarea69@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<br/>
 
-## About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Laravel+%7C+PHP+%7C+System+Architecture;Turning+Complex+Problems+Into+Clean+Solutions;Performance+%7C+APIs+%7C+Integrations" />
 
-I'm a **Backend Developer** with 5+ years of professional experience designing, developing, and maintaining scalable web applications and backend systems.
+📍 **Alexandria, Egypt** &nbsp; · &nbsp; **5+ Years Experience**
 
-Specialized in **PHP and Laravel**, with hands-on experience in API architecture, system design, database optimization, asynchronous processing, and third-party integrations.
-
-Throughout my career, I've contributed to 100+ production platforms, delivered 30+ projects, and led engineering teams while building solutions across legal, e-commerce, transportation, and SaaS industries.
-
-- 🔭 Building scalable backend systems and production-ready APIs.
-- ⚙️ Focused on Laravel, clean architecture, and system design.
-- 🚀 Experienced in performance optimization and high-traffic applications.
-- 👥 Engineering leadership, code reviews, and technical mentoring.
-- 🔌 Integrating payment gateways, ERP systems, and communication platforms.
-- 🤖 Exploring AI-powered integrations and business automation.
+</div>
 
 ---
 
-## Tech Stack
+## `01` — Who Am I?
 
-**Languages & Programming**
+```php
+<?php
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,js,java,cs,html,css" />
-</p>
+namespace Developers;
 
-**Backend Development**
+class MostafaMohamed
+{
+    public string $role = 'Backend Developer';
+    public string $specialization = 'Laravel & PHP';
+    public string $location = 'Alexandria, Egypt';
 
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php" />
-</p>
+    public array $focus = [
+        'Scalable Backend Systems',
+        'RESTful API Architecture',
+        'Database Optimization',
+        'System Design',
+        'Async Processing',
+        'Third-party Integrations',
+    ];
 
-`Laravel` · `Livewire` · `Filament` · `REST APIs` · `MVC` · `OOP` · `SOLID` · `Design Patterns` · `Sanctum` · `JWT`
+    public function philosophy(): string
+    {
+        return 'Write clean code. Build reliable systems.';
+    }
+}
+```
 
-**Databases & Performance**
+Backend Developer with **5+ years of experience** building and scaling production applications across SaaS, e-commerce, legal, and transportation platforms.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
-</p>
+I specialize in Laravel backend engineering, API architecture, performance optimization, and designing maintainable systems.
 
-`MySQL` · `PostgreSQL` · `Supabase` · `NoSQL` · `Eloquent ORM` · `Database Indexing` · `SQL Optimization` · `Caching`
-
-**DevOps & Infrastructure**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,git,github" />
-</p>
-
-`Docker` · `CI/CD` · `Linux` · `Nginx` · `VPS` · `AWS` · `Git`
-
-**Testing & Development Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=phpstorm,postman,github" />
-</p>
-
-`PHPUnit` · `Unit Testing` · `Postman` · `API Documentation` · `Swagger`
-
-**Integrations & Technologies**
-
-`WhatsApp Business API` · `Payment Gateways` · `ERP Integrations` · `Firebase` · `AI APIs` · `ZOHO` · `Elasticsearch` · `Delivery APIs`
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,jquery,html,css" />
-</p>
-
-`React` · `Tailwind CSS` · `Bootstrap` · `HTML5` · `CSS3` · `jQuery` · `ShadCN UI`
+I have contributed to **100+ production platforms**, delivered **30+ projects**, and led engineering teams of up to **15 developers**.
 
 ---
 
-## Professional Experience
+## `02` — Tech Arsenal
 
-| Position | Company | Period |
-|---|---|---|
-| Software Engineer | Awqaty | Jun 2026 – Present |
-| Software Engineer | Emcan Solutions | May 2026 – Present |
-| Backend Developer | Emcan Solutions | Aug 2023 – Apr 2026 |
-| Backend Developer | Emcan Solutions | Oct 2021 – Jul 2023 |
-| Junior Backend Developer | Devla | Aug 2021 – Oct 2021 |
-| Backend Intern | Arabic Localizer | Jun 2021 – Aug 2021 |
+<div align="center">
 
-**Selected Professional Achievements**
+### BACKEND ENGINEERING
 
-- Managed and contributed to backend development across 100+ production platforms.
-- Led a 15-person backend engineering team.
-- Delivered 30+ PHP/Laravel projects serving 10,000+ active users.
-- Improved API response times by approximately 30% through query optimization and schema refactoring.
-- Reduced page load times by approximately 40% through MySQL optimization and Redis caching.
-- Introduced testing, API documentation, and backend quality standards across active projects.
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis&theme=dark" />
 
----
+`PHP` · `Laravel` · `Livewire` · `Filament` · `REST APIs` · `Sanctum` · `JWT`
 
-## GitHub Analytics
+### DATABASE & PERFORMANCE
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moustafazare3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moustafazare3&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" />
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=moustafazare3&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+`MySQL` · `PostgreSQL` · `Supabase` · `NoSQL` · `Eloquent ORM` · `Indexing` · `Caching`
 
----
+### DEVOPS & INFRASTRUCTURE
 
-## Education
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,git,github&theme=dark" />
 
-**B.Sc. in Statistics & Computer Science**
+`Docker` · `Linux` · `Nginx` · `AWS` · `CI/CD` · `VPS`
 
-Faculty of Science, Alexandria University
+### FRONTEND & DEVELOPMENT TOOLS
 
-2017 – 2021
+<img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,jquery,html,css,postman&theme=dark" />
+
+`JavaScript` · `React` · `Tailwind` · `Bootstrap` · `jQuery` · `PHPUnit` · `Postman`
+
+### INTEGRATIONS & AUTOMATION
+
+`WhatsApp Business API` · `Payment Gateways` · `Firebase` · `ERP` · `ZOHO` · `Elasticsearch` · `AI APIs` · `Webhooks`
+
+</div>
 
 ---
 
-## Let's Connect
+## `03` — By The Numbers
 
-I'm always open to connecting with software engineers, developers, and teams building meaningful products and scalable software solutions.
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/moustafazare3">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/moustafazare3">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/moustafazare3">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/moustafazare3">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
+<table>
+<tr>
+<td align="center" width="25%">
+<h1>5+</h1>
+Years of Experience
+</td>
+<td align="center" width="25%">
+<h1>100+</h1>
+Production Platforms
+</td>
+<td align="center" width="25%">
+<h1>30+</h1>
+Projects Delivered
+</td>
+<td align="center" width="25%">
+<h1>15</h1>
+Engineers Led
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="mailto:mostafazarea69@gmail.com">mostafazarea69@gmail.com</a>
-  ·
-  <a href="tel:+201208601044">+20 120 860 1044</a>
-</p>
+</div>
 
-<p align="center">
-  <i>"Good software is built on solid engineering, thoughtful architecture, and continuous improvement."</i>
-</p>
+---
+
+## `04` — Professional Journey
+
+**Software Engineer** · [Awqaty](https://awqaty.com/en)
+
+<sub>Kuwait · Remote · Jun 2026 – Present</sub>
+
+- Developing RESTful APIs for a SaaS scheduling platform.
+- Improving booking performance through query optimization and caching.
+- Delivering major product features in a distributed team.
+
+**Software Engineer** · [Emcan Solutions](https://emcan-group.com/)
+
+<sub>Alexandria, Egypt · Remote · May 2026 – Present</sub>
+
+- Leading architecture reviews and backend engineering standards.
+- Mentoring an 8-engineer remote team.
+- Improving API performance and introducing testing standards.
+
+**Backend Developer** · [Emcan Solutions](https://emcan-group.com/)
+
+<sub>Manama, Bahrain · On-site · Aug 2023 – Apr 2026</sub>
+
+- Owned backend development across 100+ production platforms.
+- Managed a 15-person backend engineering team.
+- Improved application performance through SQL optimization and Redis caching.
+- Integrated ERP, payment gateways, and WhatsApp Business APIs.
+
+**Backend Developer** · [Emcan Solutions](https://emcan-group.com/)
+
+<sub>Alexandria, Egypt · On-site · Oct 2021 – Jul 2023</sub>
+
+- Delivered 30+ Laravel projects serving 10,000+ active users.
+- Integrated payment, maps, Firebase, and delivery services.
+- Standardized deployment processes and database migrations.
+
+**Earlier Experience**
+
+- Junior Backend Developer — [Devla](https://www.linkedin.com/company/devla/) · Aug–Oct 2021
+- Backend Intern — [Arabic Localizer](https://arabiclocalizer.com/) · Jun–Aug 2021
+
+---
+
+## `05` — GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=moustafazare3&show_icons=true&hide_border=true&bg_color=090
