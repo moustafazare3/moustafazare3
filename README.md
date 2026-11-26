@@ -1,106 +1,85 @@
-<!--
-  MOSTAFA MOHAMED | GitHub Profile README
-  Repository: moustafazare3
--->
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:09090b,45:450a0a,100:dc2626&text=MOSTAFA%20MOHAMED&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=BACKEND%20DEVELOPER%20%7C%20LARAVEL%20ENGINEER&descSize=17&descAlignY=60&animation=fadeIn" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:09090b,40:450a0a,100:dc2626&text=MOSTAFA%20MOHAMED&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=BACKEND%20DEVELOPER%20%7C%20LARAVEL%20ENGINEER&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
+<br/>
 
-<a href="https://www.linkedin.com/in/moustafazare3">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 <a href="https://github.com/moustafazare3">
-<img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-DC2626?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/moustafazare3">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:mostafazarea69@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Laravel+%7C+PHP+%7C+System+Architecture;Performance+%7C+APIs+%7C+Integrations;Turning+Complex+Problems+Into+Clean+Solutions" />
+
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Laravel+%7C+PHP+%7C+System+Architecture;Turning+Complex+Problems+Into+Clean+Solutions;Performance+%7C+APIs+%7C+Integrations" />
-
-📍 **Alexandria, Egypt** &nbsp; · &nbsp; **5+ Years Experience**
+📍 **Alexandria, Egypt** &nbsp; · &nbsp; **5+ Years of Experience**
 
 </div>
 
 ---
 
-## `01` — Who Am I?
+<h2 align="center">01 · ABOUT ME</h2>
 
-```php
-<?php
+I'm a **Backend Developer** with 5+ years of professional experience designing, developing, and maintaining scalable web applications and backend systems.
 
-namespace Developers;
+Specialized in **PHP and Laravel**, with strong experience in API architecture, system design, database optimization, asynchronous processing, and third-party integrations.
 
-class MostafaMohamed
-{
-    public string $role = 'Backend Developer';
-    public string $specialization = 'Laravel & PHP';
-    public string $location = 'Alexandria, Egypt';
+I've contributed to 100+ production platforms, delivered 30+ projects, and led engineering teams of up to 15 developers.
 
-    public array $focus = [
-        'Scalable Backend Systems',
-        'RESTful API Architecture',
-        'Database Optimization',
-        'System Design',
-        'Async Processing',
-        'Third-party Integrations',
-    ];
-
-    public function philosophy(): string
-    {
-        return 'Write clean code. Build reliable systems.';
-    }
-}
-```
-
-Backend Developer with **5+ years of experience** building and scaling production applications across SaaS, e-commerce, legal, and transportation platforms.
-
-I specialize in Laravel backend engineering, API architecture, performance optimization, and designing maintainable systems.
-
-I have contributed to **100+ production platforms**, delivered **30+ projects**, and led engineering teams of up to **15 developers**.
+- 🔭 Building scalable backend systems and production-ready APIs.
+- ⚙️ Focused on Laravel, clean architecture, and system design.
+- 🚀 Experienced in performance optimization and high-traffic applications.
+- 👥 Engineering leadership, code reviews, and technical mentoring.
+- 🔌 Integrating payment gateways, ERP systems, and communication platforms.
+- 🤖 Exploring AI integrations and business automation.
 
 ---
 
-## `02` — Tech Arsenal
+<h2 align="center">02 · TECH STACK</h2>
 
 <div align="center">
 
-### BACKEND ENGINEERING
+### Backend Engineering
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" />
 
-`PHP` · `Laravel` · `Livewire` · `Filament` · `REST APIs` · `Sanctum` · `JWT`
+`Laravel` · `Livewire` · `Filament` · `REST APIs` · `MVC` · `OOP` · `SOLID` · `Design Patterns` · `Sanctum` · `JWT`
 
-### DATABASE & PERFORMANCE
+### Databases & Performance
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" />
 
-`MySQL` · `PostgreSQL` · `Supabase` · `NoSQL` · `Eloquent ORM` · `Indexing` · `Caching`
+`MySQL` · `PostgreSQL` · `Supabase` · `NoSQL` · `Eloquent ORM` · `Indexing` · `Caching` · `SQL Optimization`
 
-### DEVOPS & INFRASTRUCTURE
+### DevOps & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,git,github&theme=dark" />
 
 `Docker` · `Linux` · `Nginx` · `AWS` · `CI/CD` · `VPS`
 
-### FRONTEND & DEVELOPMENT TOOLS
+### Frontend & Development Tools
 
 <img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,jquery,html,css,postman&theme=dark" />
 
-`JavaScript` · `React` · `Tailwind` · `Bootstrap` · `jQuery` · `PHPUnit` · `Postman`
+`JavaScript` · `React` · `Tailwind CSS` · `Bootstrap` · `jQuery` · `PHPUnit` · `Postman`
 
-### INTEGRATIONS & AUTOMATION
+### Integrations & Automation
 
-`WhatsApp Business API` · `Payment Gateways` · `Firebase` · `ERP` · `ZOHO` · `Elasticsearch` · `AI APIs` · `Webhooks`
+`WhatsApp Business API` · `Payment Gateways` · `Firebase` · `ERP` · `ZOHO` · `Elasticsearch` · `AI APIs` · `Webhooks` · `Delivery APIs`
 
 </div>
 
 ---
 
-## `03` — By The Numbers
+<h2 align="center">03 · PROFESSIONAL IMPACT</h2>
 
 <div align="center">
 
@@ -108,19 +87,23 @@ I have contributed to **100+ production platforms**, delivered **30+ projects**,
 <tr>
 <td align="center" width="25%">
 <h1>5+</h1>
-Years of Experience
+<strong>Years</strong>
+<br/>Experience
 </td>
 <td align="center" width="25%">
 <h1>100+</h1>
-Production Platforms
+<strong>Platforms</strong>
+<br/>Production Systems
 </td>
 <td align="center" width="25%">
 <h1>30+</h1>
-Projects Delivered
+<strong>Projects</strong>
+<br/>Delivered
 </td>
 <td align="center" width="25%">
 <h1>15</h1>
-Engineers Led
+<strong>Engineers</strong>
+<br/>Team Leadership
 </td>
 </tr>
 </table>
@@ -129,17 +112,17 @@ Engineers Led
 
 ---
 
-## `04` — Professional Journey
+<h2 align="center">04 · PROFESSIONAL JOURNEY</h2>
 
-**Software Engineer** · [Awqaty](https://awqaty.com/en)
+### Software Engineer · [Awqaty](https://awqaty.com/en)
 
-<sub>Kuwait · Remote · Jun 2026 – Present</sub>
+<sub>Kuwait · Remote · June 2026 – Present</sub>
 
-- Developing RESTful APIs for a SaaS scheduling platform.
-- Improving booking performance through query optimization and caching.
-- Delivering major product features in a distributed team.
+- Designing RESTful APIs for a Gulf-region SaaS scheduling platform.
+- Optimizing booking performance through database queries and caching.
+- Delivering major feature releases in a distributed engineering team.
 
-**Software Engineer** · [Emcan Solutions](https://emcan-group.com/)
+### Software Engineer · [Emcan Solutions](https://emcan-group.com/)
 
 <sub>Alexandria, Egypt · Remote · May 2026 – Present</sub>
 
@@ -147,79 +130,101 @@ Engineers Led
 - Mentoring an 8-engineer remote team.
 - Improving API performance and introducing testing standards.
 
-**Backend Developer** · [Emcan Solutions](https://emcan-group.com/)
+### Backend Developer · [Emcan Solutions](https://emcan-group.com/)
 
-<sub>Manama, Bahrain · On-site · Aug 2023 – Apr 2026</sub>
+<sub>Manama, Bahrain · On-site · August 2023 – April 2026</sub>
 
 - Owned backend development across 100+ production platforms.
 - Managed a 15-person backend engineering team.
-- Improved application performance through SQL optimization and Redis caching.
-- Integrated ERP, payment gateways, and WhatsApp Business APIs.
+- Improved application performance through MySQL optimization and Redis caching.
+- Integrated ERP systems, payment gateways, and WhatsApp Business APIs.
 
-**Backend Developer** · [Emcan Solutions](https://emcan-group.com/)
+### Backend Developer · [Emcan Solutions](https://emcan-group.com/)
 
-<sub>Alexandria, Egypt · On-site · Oct 2021 – Jul 2023</sub>
+<sub>Alexandria, Egypt · On-site · October 2021 – July 2023</sub>
 
 - Delivered 30+ Laravel projects serving 10,000+ active users.
-- Integrated payment, maps, Firebase, and delivery services.
+- Integrated payment gateways, Google Maps, Firebase, and delivery APIs.
 - Standardized deployment processes and database migrations.
 
-**Earlier Experience**
+### Earlier Experience
 
-- Junior Backend Developer — [Devla](https://www.linkedin.com/company/devla/) · Aug–Oct 2021
-- Backend Intern — [Arabic Localizer](https://arabiclocalizer.com/) · Jun–Aug 2021
+- **Junior Backend Developer** · [Devla](https://www.linkedin.com/company/devla/) · August – October 2021
+- **Backend Intern** · [Arabic Localizer](https://arabiclocalizer.com/) · June – August 2021
 
 ---
 
-
-<!-- GITHUB ANALYTICS DASHBOARD -->
-
-## `05` — GitHub Analytics Dashboard
+<h2 align="center">05 · GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-### OVERVIEW
+### LIVE GITHUB DASHBOARD
 
-<img width="100%" src="https://ghstats.dev/api/card?username=moustafazare3&theme=midnight&bg=09090b&text=E5E7EB&title_color=F87171&icon_color=DC2626&border_color=27272a" alt="GitHub Overview Statistics" />
-
-<br/>
-
-### CONTRIBUTION STREAK
-
-<img width="100%" src="https://streak-stats.demolab.com?user=moustafazare3&theme=dark&hide_border=true&background=09090b&ring=DC2626&fire=F87171&currStreakLabel=F87171&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub Contribution Streak" />
+<a href="https://gitshine.com/stats/moustafazare3">
+<img src="https://gitshine.com/card/moustafazare3?theme=dark" width="100%" alt="GitHub Statistics, Contributions, Languages and Streaks"/>
+</a>
 
 <br/>
 
-### LANGUAGE DISTRIBUTION
-
-<img width="49%" src="https://ghstats.dev/api/langs?username=moustafazare3&layout=donut&theme=midnight&bg=09090b&text=E5E7EB&title_color=F87171&border_color=27272a" alt="Language Distribution Donut Chart" />
-
-<img width="49%" src="https://ghstats.dev/api/langs?username=moustafazare3&layout=bar&theme=midnight&bg=09090b&text=E5E7EB&title_color=F87171&border_color=27272a" alt="Language Distribution Bar Chart" />
+**Explore your detailed statistics:** [GitHub Analytics](https://gitshine.com/stats/moustafazare3)
 
 <br/>
 
-### CONTRIBUTION ACTIVITY
+### CONTRIBUTION HISTORY
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=moustafazare3&bg_color=09090b&color=F87171&line=DC2626&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+<a href="https://github.com/moustafazare3">
+<img src="https://github.com/moustafazare3.png" width="100" alt="Mostafa's GitHub avatar"/>
+</a>
 
-<br/>
-
-### ACTIVITY SPARKLINE
-
-<img width="100%" src="https://ghstats.dev/api/sparkline?username=moustafazare3&days=90&width=800&height=160&line_color=DC2626&fill_color=450a0a&title=Last%2090%20Days%20Activity&hide_border=true" alt="90 Day Activity Sparkline" />
-
-<br/>
-
-### GITHUB TROPHIES
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=moustafazare3&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" />
+[View all repositories and contributions →](https://github.com/moustafazare3?tab=repositories)
 
 </div>
 
 ---
 
+<h2 align="center">06 · EDUCATION</h2>
+
+**B.Sc. in Statistics & Computer Science**
+
+Faculty of Science, Alexandria University
+
+2017 – 2021
+
+---
+
+<h2 align="center">07 · LET'S CONNECT</h2>
+
 <div align="center">
 
-**REAL CODE. REAL CONTRIBUTIONS. CONTINUOUS GROWTH.**
+### HAVE AN INTERESTING PROJECT?
+
+**Let's build something that makes a difference.**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/moustafazare3">
+<img src="https://img.shields.io/badge/LinkedIn-DC2626?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/moustafazare3">
+<img src="https://img.shields.io/badge/Facebook-18181B?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/moustafazare3">
+<img src="https://img.shields.io/badge/Instagram-DC2626?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://x.com/moustafazare3">
+<img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+📧 [mostafazarea69@gmail.com](mailto:mostafazarea69@gmail.com)
+
+📱 [+20 120 860 1044](tel:+201208601044)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,100:09090b&height=120&section=footer" width="100%"/>
+
+**BUILD. OPTIMIZE. INNOVATE.**
 
 </div>
